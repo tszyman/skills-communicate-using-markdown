@@ -11,3 +11,7 @@ col1|col2
 row11|row12
 row21|row22
   
+# An Image
+![A cat](https://octodex.github.com/images/yaktocat.png)
+
+
